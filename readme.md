@@ -9,3 +9,4 @@ $name = "abc";
 echo $abc; // 2번째줄
 echo ${$name}; // 3번째줄
 ```
+
